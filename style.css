@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #002d62;
+}
+.coffee,
+.people,
+.todo_list {
+  width: 25%;
+  text-align: center;
+}
+.logo {
+  font-size: 45px;
+}
+.number {
+  height: 93px;
+}
+.text {
+  margin-top: 5px;
+  font-size: 29px;
+}
+.main {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 14em;
+  color: yellow;
+  font-family: "Seymour One", sans-serif;
+}
