@@ -13,7 +13,10 @@
   font-size: 45px;
 }
 .number {
-  height: 93px;
+  height: 58px;
+  padding-top: 35px;
+  text-align: center;
+  font-size: 29px;
 }
 .text {
   margin-top: 5px;
